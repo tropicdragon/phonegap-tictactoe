@@ -14,7 +14,7 @@
         <string>100</string>
     </gap:config-file>
     
-    <content src="https://pgbomit.com/?phonegapPlugins=v103" />
+    <content src="http://pgbomit.com/?phonegapPlugins=v103" />
     
     <name>Chess</name>
     <author email="avs327@nyu.edu">
